@@ -1,0 +1,12 @@
+Brand colours:
+
+- Background:
+#f7f7f7
+Off White
+
+- Main:
+#caa73f
+Golden
+
+- Font:
+#4d4632
