@@ -28,3 +28,9 @@ body {
     margin-right: auto;
     width: 40%;
 }
+
+footer {
+    background-color: #caa73f;
+    height: 150px;
+    width: 100%;
+}
