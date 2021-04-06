@@ -2,14 +2,10 @@
     background-color: #caa73f;
 }
 
-.nav-fonts {
+.nav-fonts .nav-item .nav-link {
     color: #4d4632;
 }
 
 .nav-title {
     color: #f7f7f7;
-}
-
-a {
-    color: none;
 }
