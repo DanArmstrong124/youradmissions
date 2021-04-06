@@ -3,4 +3,3 @@ Jotform modal
 set title to hover opacity instead of black
 
 add image
-change bg colour to off white

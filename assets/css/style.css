@@ -7,6 +7,10 @@
 }
 
 .nav-title {
+    color: #f7f7f7bd;
+}
+
+.nav-title:hover {
     color: #f7f7f7;
 }
 
