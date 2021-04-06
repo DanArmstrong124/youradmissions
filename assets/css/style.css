@@ -1,11 +1,11 @@
 .nav-background {
-    background-color: #caa73f;
+    background-color: #caa73f !important;
 }
 
 .nav-fonts {
-    color: #4d4632;
+    color: #4d4632 !important;
 }
 
 .nav-title {
-    color: #f7f7f7;
+    color: #f7f7f7 !important;
 }
