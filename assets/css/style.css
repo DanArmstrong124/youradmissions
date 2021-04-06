@@ -21,3 +21,10 @@ a:hover {
 body {
     background-color: #f7f7f7 !important;
 }
+
+.img-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}

@@ -1,5 +1,3 @@
 Jotform modal
 
-add image <-!
-
 add footer <-!
