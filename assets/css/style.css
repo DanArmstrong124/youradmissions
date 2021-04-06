@@ -9,3 +9,7 @@
 .nav-title {
     color: #f7f7f7;
 }
+
+a {
+    color: inherit;
+}
