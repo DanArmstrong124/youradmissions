@@ -1,5 +1,5 @@
 Jotform modal
 
-set title to hover opacity instead of black
+add image <-!
 
-add image
+add footer <-!
