@@ -11,7 +11,7 @@
 }
 
 .nav-title:hover {
-    color: #f7f7f7;
+    color: #f7f7f7 !important;
 }
 
 a:hover {
@@ -19,5 +19,5 @@ a:hover {
 }
 
 body {
-    background-color: #f7f7f7;
+    background-color: #f7f7f7 !important;
 }
