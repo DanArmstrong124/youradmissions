@@ -29,8 +29,12 @@ body {
     width: 40%;
 }
 
+.tac {
+    text-align: center;
+}
+
 footer {
     background-color: #caa73f;
-    height: 150px;
+    height: 60px;
     width: 100%;
 }
