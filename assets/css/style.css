@@ -13,3 +13,7 @@
 a:hover {
     color: inherit !important;
 }
+
+body {
+    background-color: #f7f7f7;
+}
