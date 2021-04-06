@@ -11,5 +11,5 @@
 }
 
 a:hover {
-    color: inherit;
+    color: inherit !important;
 }
