@@ -1,0 +1,25 @@
+/* Form */
+
+.topleft {
+ border-right: 1px solid #caa73fa6;
+}
+
+.topmid {
+
+}
+
+.topright {
+     border-left: 1px solid #caa73fa6;
+}
+
+.left {
+     border: 1px solid #caa73fa6;
+}
+
+.mid {
+    border: 1px solid #caa73fa6;
+}
+
+.right {
+    border: 1px solid #caa73fa6;
+}

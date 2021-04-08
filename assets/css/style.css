@@ -11,6 +11,10 @@ li {
 }
 
 .main-colour {
+    background-color: #caa73fa6 !important;
+}
+
+.main-colour:hover {
     background-color: #caa73f !important;
 }
 
