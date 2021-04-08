@@ -52,16 +52,16 @@
 </div>
 
 <div class="tac button-holder">
-    <button style="margin-bottom: 15px;" type="button" class="btn main-colour">T&C's</button>
+    <button style="margin-bottom: 15px;" type="button" class="btn main-colour" data-bs-toggle="modal" data-bs-target="#TaC">T&C's</button>
 </div>
 
 <!--MODAL-->
 
-<div class="modal" tabindex="-1">
+<div class="modal fade" id="TaC" tabindex="-1" aria-labelledby="TaCLabel" aria-hidden="true">
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title">Terms & Conditions:</h5>
+        <h5 class="modal-title" id="TaCLabel">Terms & Conditions:</h5>
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body">
