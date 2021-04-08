@@ -11,7 +11,7 @@ li {
 }
 
 .main-colour {
-    background-color: #caa73f;
+    background-color: #caa73f !important;
 }
 
 .nav-title {
