@@ -2,14 +2,16 @@
 
 .topleft {
  border-right: 3px solid #caa73fa6;
+ font-size: 18px;
 }
 
 .topmid {
-
+ font-size: 18px;
 }
 
 .topright {
      border-left: 3px solid #caa73fa6;
+      font-size: 18px;
 }
 
 .left {
