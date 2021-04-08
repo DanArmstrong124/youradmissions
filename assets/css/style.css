@@ -6,6 +6,10 @@
     color: #4d4632;
 }
 
+li {
+    list-style: none;
+}
+
 .nav-title {
     color: #f7f7f7bd;
 }
