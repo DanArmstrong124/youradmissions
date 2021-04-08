@@ -12,7 +12,7 @@
     height: 0.25rem;
     background-color: #616247;
     border-radius: 1rem;
-    border-color: #616247 !important;
+    border-color: #caa73f !important;
 }
 
 .divider-custom .divider-custom-line:first-child {
@@ -20,6 +20,9 @@
 }
 
 .divider-custom .divider-custom-icon {
-    color: #616247 !important;
+    color: #caa73f !important;
     font-size: 2rem;
+}
+.divider-custom .divider-custom-line:last-child {
+    margin-left: 1rem;
 }
