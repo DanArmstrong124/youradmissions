@@ -3,7 +3,7 @@ var timedisplay = $(' #time ');
 
 
 setInterval(function(){
-    var today = new Date();
+    var today = new Date().format('m-d-Y h:i:s');
     //var date = today.getDate()+'-'+(today.getMonth()+1)+'-'+today.getFullYear()+;
     var time = today.getHours() + ":" + today.getMinutes() + ":" + today.getSeconds();
     day.html(today);
