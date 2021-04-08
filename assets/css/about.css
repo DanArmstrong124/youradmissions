@@ -4,5 +4,6 @@
 
 .picture img {
     padding-top: 60px;
+    padding-bottom: 60px;
     max-width: 150px;
 }
