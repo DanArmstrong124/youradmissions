@@ -115,7 +115,51 @@ at School Appeal hearings.
 </div>
 
 <div class="form tac">
-    <h1>FORM AREA - FORMSPREE / JOTFORM</h1>
+    <form
+  action="https://formspree.io/f/xleaevgr"
+  method="POST">
+    <div class="mb-3">
+    <label for="schoolname" class="form-label">School Name</label>
+    <input type="text" name="school_name" class="form-control" id="schoolname" required>
+  </div>
+    <div class="mb-3">
+    <label for="headteachername" class="form-label">Head Teacher Name</label>
+    <input type="text" name="headteacher_name" class="form-control" id="headteachername" required>
+  </div>
+  <div class="mb-3">
+    <label for="headteacheremail" class="form-label">Head Teacher Email</label>
+    <input type="email" name="_replyto" class="form-control" id="headteacheremail" aria-describedby="emailHelp" required>
+    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+  </div>
+      <div class="mb-3">
+    <label for="admissionname" class="form-label">Admissions Officer Name</label>
+    <input type="text" name="admission_name" class="form-control" id="admissionname" required>
+  </div>
+  <div class="mb-3">
+    <label for="admissionemail" class="form-label">Admissions Officer Email</label>
+    <input type="email" name="_replyto" class="form-control" id="admissionemail" aria-describedby="emailHelp2" required>
+    <div id="emailHelp2" class="form-text">We'll never share your email with anyone else.</div>
+  </div>
+  <select class="form-select" aria-label="Default select example" required>
+  <option selected disabled>Which service are you interested in?</option>
+  <option value="1">Admission Support</option>
+  <option value="2">Appeal Case Review</option>
+  <option value="3">Appeal Case Writing</option>
+  <option value="4">Appeal Hearing Representation</option>
+  <option value="5">A Combination of the above</option>
+  <option value="6">Unsure at this time</option>
+</select>
+  <div class="mb-3 form-check">
+    <input type="checkbox" class="form-check-input" id="notrobot" required>
+    <label class="form-check-label" for="notrobot">Do you agree to YourAdmissions keeping this form on file and using the contact details within it to 
+contact you both in response to the submission of this form and in the future</label>
+  </div>
+  <div class="mb-3 form-check">
+    <input type="checkbox" class="form-check-input" id="notrobot2" required>
+    <label class="form-check-label" for="notrobot2">I am not a robot & agree to the terms and conditions.</label>
+  </div>
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>
 </div>
     <!--END OF CONTENT-->
     
