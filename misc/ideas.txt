@@ -1,3 +1,5 @@
 Jotform modal
 
-add footer <-!
+add footer:
+ - social media links
+ - link to contact
